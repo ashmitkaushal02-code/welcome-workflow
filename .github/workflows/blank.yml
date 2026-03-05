@@ -14,4 +14,3 @@ jobs:
   welcome:
     name: Post Welcome comment
     runs-on: ubuntu-latest
-
